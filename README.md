@@ -12,7 +12,7 @@ Para este proyecto se decide realizar:
 - Análisis exploratorio de datos (EDA)
 - Análisis bivariado de correlaciones
 - Análisis de los datos colombianos.
-- Modelo de maching learning para predecir a futuro la prevalencia para un año y un país específico.
+- Modelo de machine learning para predecir a futuro la prevalencia para un año y un país específico.
 - Visualización de la media de la tasa de prevalencia por medio de PowerBi y LookerStudio
 
 Los archivos CSV usados para el proyecto, se pueden encontrar dentro de la carpeta Data, el desarrollo de la limpieza de datos se muestra en el archivo limpieza de datos, mientras que los análisis se pueden observar en el archivo Análisis de la Prevalencia de Trastornos de Salud Mental.  
